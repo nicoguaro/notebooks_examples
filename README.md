@@ -9,5 +9,6 @@ Some Examples in IPython Notebook:
 * [Geodesic Optimization](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/geodesic_opt.ipynb)
 * [Interactive widgets in iPython notebook](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Interactive_widgets.ipynb)
 * [Lobatto Quadrature](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Lobatto_quadrature.ipynb)
+* [Optimal lumped mass matrix for FEM](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Optimal_mass_matrix.ipynb)
 * [Plotting examples](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/plot_ex.ipynb)
 
