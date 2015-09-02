@@ -15,4 +15,5 @@ Some Examples in IPython Notebook:
 * [Optimal lumped mass matrix for FEM](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Optimal_mass_matrix.ipynb)
 * [Plotting examples](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/plot_ex.ipynb)
 * [Pseudospectra (face) of matrices](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Pseudospectra%20of%20matrices.ipynb)
+* [Surface computations](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/surface_computations.ipynb)
 
