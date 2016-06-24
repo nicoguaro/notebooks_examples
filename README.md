@@ -13,6 +13,7 @@ Some Examples in IPython Notebook:
 * [Minimum distance between transverse isotropic and isotropic tensors](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/anisotropic_isotropic_distance.ipynb)
 * [Mohr circle depiction](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Mohr_circle.ipynb)
 * [Optimal lumped mass matrix for FEM](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Optimal_mass_matrix.ipynb)
+* [Perturbation methods](http://nbviewer.jupyter.org/github/nicoguaro/notebooks_examples/blob/master/Perturbation%20methods.ipynb)
 * [Plotting examples](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/plot_ex.ipynb)
 * [Pseudospectra (face) of matrices](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Pseudospectra%20of%20matrices.ipynb)
 * [Surface computations](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/surface_computations.ipynb)
