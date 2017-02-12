@@ -1,6 +1,8 @@
 Notebook Examples
 ==================
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nicoguaro/notebooks_examples)
+
 Some Examples in IPython Notebook:
 
 * [3D printer in delta configuration](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Delta_3D_printer.ipynb)
