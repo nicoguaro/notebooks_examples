@@ -3,7 +3,9 @@ Notebook Examples
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nicoguaro/notebooks_examples)
 
-Some Examples in IPython Notebook:
+This repository have several examples using Jupyter notebook in different Engineering/Physics/Math context.
+
+Some of the notebooks are:
 
 * [3D printer in delta configuration](http://nbviewer.ipython.org/github/nicoguaro/notebooks_examples/blob/master/Delta_3D_printer.ipynb)
 * [Airy stress functions](http://nbviewer.jupyter.org/github/nicoguaro/notebooks_examples/blob/master/Airy%20stress%20functions.ipynb)
