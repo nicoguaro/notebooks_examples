@@ -2,6 +2,7 @@
 ###########
 
 # iPython checkpoints
+.ipynb_checkpoints
 .ipynb_checkpoints/*checkpoint.ipynb
 ./notebooks/.ipynb_checkpoints/*checkpoint.ipynb
 
