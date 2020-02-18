@@ -8,3 +8,4 @@ dependencies:
   - mpmath
   - sympy
   - mayavi
+  - pyvista
